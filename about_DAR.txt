@@ -1,0 +1,11 @@
+DAR is a unique personal diary with built-in astrological tools.
+
+The application is designed for both professional astrologers and astrology lovers.
+ - personalized horoscope, daily prediction, evaluation
+ - birth chart, transits, progressions etc.
+
+It has an extended database with an event classifier.
+
+The application code is written by the astrologer himself and therefore DAR is developing rapidly. The goal of the project is to popularize astrology and create the most convenient mobile astrological assistant with GPT4 support.
+
+The project is completely free, does not require the Internet and does not collect any personal data.
