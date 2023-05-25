@@ -7,4 +7,4 @@ Existing and developing features:
 - Personal database (tracks your events and people's events in your database)
 - an additional astrological engine as a bonus
 
-The project is completely free and does not collect any personal data.
+The project is completely free and does not collect your personal data.
