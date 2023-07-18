@@ -14,4 +14,8 @@ Existing and developing features:
 This version of the project is completely free and does not collect your personal data.
 Your data is only yours and is stored on your phone.
 
+Android
 https://play.google.com/store/apps/details?id=com.dar4astrology.dar
+
+IOS
+https://apps.apple.com/kg/app/astrodiary-dar/id1661471263
