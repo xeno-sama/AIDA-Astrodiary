@@ -6,6 +6,7 @@ A unique diary that will help you keep track of your life
 Existing and developing features:
 
 Integrated astronomy (solar and lunar cycles) and astrology (maximally rationalistic)
+
 Diary: notes & events.
 
 Dream journal (classification of lucid dreams is supported).
