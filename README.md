@@ -6,7 +6,7 @@ A unique diary that will help you keep track of your life
 Existing and developing features:
 
 Integrated astronomy (solar and lunar cycles) and astrology (maximally rationalistic)
-Diary: notes & events
+Diary: notes & events\n
 Dream journal (classification of lucid dreams is supported)
 Personal database (tracks your events and people's events in your database)
 Languages: English, Arabic, Bulgarian, Chinese, Czech, German, Spanish, French, Hindi, Hungarian, Indonesian, Italian, Portuguese, Ukrainian, Russian, Swedish, Turkish
